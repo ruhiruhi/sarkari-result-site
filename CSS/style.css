@@ -1,0 +1,72 @@
+
+
+
+
+h5 {
+  background-color: #15133C;
+  width: 10%;
+}
+
+.heading {
+  color: #fff;
+}
+
+.result {
+  margin-right: 700px;
+}
+
+.admit {
+  position: relative;
+  bottom: 540px;
+}
+
+.job {
+  position: relative;
+  left: 350px;
+  bottom: 1078;
+}
+
+
+.follow {
+  border-radius: 10px;
+  text-align: center;
+}
+
+.youtube {
+  text-align: center;
+  padding-bottom: 3px;
+}
+
+
+.border {
+color: #FFFFFF;
+margin: auto;
+padding: 15px;
+margin-top: 100px;
+
+}
+
+img {
+  margin-left: 10px;
+  position: relative;
+  top: 40;
+  left: 20;
+}
+
+p {
+  margin: auto;
+  position: relative;
+  bottom: 80;
+  left: 80;
+}
+
+.line {
+  box-sizing: border-box;
+  border-color: #FFFFFF;
+  width: 74%;
+
+}
+.graph {
+  margin: 10px;
+
+}
